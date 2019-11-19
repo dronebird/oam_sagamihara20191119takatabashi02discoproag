@@ -1,0 +1,219 @@
+[2019-10-25] [19:03:10.159T+0900] NOTICE: ----------------------------------------------------------------
+[2019-10-25] [19:03:10.160T+0900] NOTICE: Pix4Dreact: 1.0.0 (89d1c4b64)
+[2019-10-25] [19:03:10.162T+0900] NOTICE: Qt (runtime): 5.12.2
+[2019-10-25] [19:03:10.163T+0900] NOTICE: Qt (build-time): 5.12.2
+[2019-10-25] [19:03:10.164T+0900] NOTICE: Resuming application-level logging (Store creation).
+[2019-10-25] [19:03:10.165T+0900] NOTICE: Logging to: C:/Users/mapco/Pix4Dreact/Log/applicationLog.log
+[2019-10-25] [19:03:10.166T+0900] NOTICE: Screen size: 1368x912, available 1368x872
+[2019-10-25] [19:03:10.167T+0900] NOTICE: Device pixel ratio: 2
+[2019-10-25] [19:03:10.233T+0900] WARNING: qt-msg: serialnmea: No serial ports found
+[2019-10-25] [19:03:10.235T+0900] WARNING: The device does not support GPS positioning. This feature will be disabled.
+[2019-10-25] [19:03:12.813T+0900] NOTICE: EulaPageState: Entered
+[2019-10-25] [19:03:18.353T+0900] NOTICE: LoginPageState: Entered
+[2019-10-25] [19:03:35.172T+0900] NOTICE: AuthenticateState: Entered
+[2019-10-25] [19:03:36.562T+0900] NOTICE: UserInfoState: Entered
+[2019-10-25] [19:03:36.833T+0900] NOTICE: ListLicensesState: Entered
+[2019-10-25] [19:03:36.854T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-10-25] [19:03:36.896T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-10-25] [19:03:37.102T+0900] NOTICE: StartTrialState: Entered
+[2019-10-25] [19:03:38.956T+0900] NOTICE: ListLicensesState: Entered
+[2019-10-25] [19:03:38.977T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-10-25] [19:03:39.015T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-10-25] [19:03:39.238T+0900] NOTICE: LicensePageState: Entered
+[2019-10-25] [19:04:38.082T+0900] NOTICE: AcquireLicenseState: Entered
+[2019-10-25] [19:04:38.116T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-10-25] [19:04:38.399T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-10-25] [19:04:38.997T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-10-25] [19:04:39.050T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-10-25] [19:04:39.065T+0900] NOTICE: CheckNewVersionState: Entered
+[2019-10-25] [19:04:39.067T+0900] NOTICE: StartupPageState: Entered
+[2019-10-25] [19:04:39.070T+0900] NOTICE: Couchbase: store already closed or was not opened.
+[2019-10-25] [19:04:39.072T+0900] NOTICE: db path is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-10-25] [19:04:39.073T+0900] NOTICE: DataFileJournal: File journal is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-10-25] [19:04:39.074T+0900] NOTICE: ProjectJournal: JSON folder path is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-10-25] [19:04:39.102T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-10-25] [19:04:39.139T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-10-25] [19:04:39.156T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-10-25] [19:04:39.189T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-10-25] [19:04:39.203T+0900] WARNING: Saved setting for dashboard sort option was invalid
+[2019-10-25] [19:04:39.209T+0900] WARNING: Notification: Projects and account notification: Projects created with this account will only be accessible with these credentials. If you login with another account, you will not see these projects.
+[2019-10-29] [08:40:09.350T+0900] NOTICE: ----------------------------------------------------------------
+[2019-10-29] [08:40:09.359T+0900] NOTICE: Pix4Dreact: 1.0.0 (89d1c4b64)
+[2019-10-29] [08:40:09.360T+0900] NOTICE: Qt (runtime): 5.12.2
+[2019-10-29] [08:40:09.362T+0900] NOTICE: Qt (build-time): 5.12.2
+[2019-10-29] [08:40:09.363T+0900] NOTICE: Resuming application-level logging (Store creation).
+[2019-10-29] [08:40:09.364T+0900] NOTICE: Logging to: C:/Users/mapco/Pix4Dreact/Log/applicationLog.log
+[2019-10-29] [08:40:09.371T+0900] NOTICE: Screen size: 1368x912, available 1368x872
+[2019-10-29] [08:40:09.373T+0900] NOTICE: Device pixel ratio: 2
+[2019-10-29] [08:40:09.462T+0900] WARNING: qt-msg: serialnmea: No serial ports found
+[2019-10-29] [08:40:09.463T+0900] WARNING: The device does not support GPS positioning. This feature will be disabled.
+[2019-10-29] [08:40:12.228T+0900] ERROR: Application: Unable to obtain lock on application lock file C:/Users/mapco/AppData/Local/Temp/Pix4Dreact.lock
+[2019-10-29] [08:40:12.229T+0900] ERROR: Notification: Application already running: Pix4Dreact is already open, please close the current session to open a new session.
+[2019-11-05] [14:18:53.894T+0900] NOTICE: ----------------------------------------------------------------
+[2019-11-05] [14:18:53.901T+0900] NOTICE: Pix4Dreact: 1.0.0 (89d1c4b64)
+[2019-11-05] [14:18:53.902T+0900] NOTICE: Qt (runtime): 5.12.2
+[2019-11-05] [14:18:53.903T+0900] NOTICE: Qt (build-time): 5.12.2
+[2019-11-05] [14:18:53.904T+0900] NOTICE: Resuming application-level logging (Project 'Unnamed Map 1' was closed).
+[2019-11-05] [14:18:53.905T+0900] NOTICE: Logging to: C:/Users/mapco/Pix4Dreact/Log/applicationLog.log
+[2019-11-05] [14:18:54.296T+0900] WARNING: qt-msg: qrc:/Widgets/P4fToolTip.qml:22:5: QML ToolTip: cannot find any window to open popup in.
+[2019-11-05] [14:18:54.298T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-05] [14:18:54.574T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-05] [14:18:54.586T+0900] NOTICE: RestClient: OAuth2 token will expire soon, refreshing...
+[2019-11-05] [14:18:57.908T+0900] ERROR: RestClient: Error executing network request for URL https://cloud.pix4d.com/oauth2/token/
+[2019-11-05] [14:18:57.910T+0900] ERROR:   HTTP code: 0
+[2019-11-05] [14:18:57.911T+0900] ERROR:   Error code: 3
+[2019-11-05] [14:18:57.911T+0900] ERROR:   Error string: Host cloud.pix4d.com not found
+[2019-11-05] [14:18:57.912T+0900] ERROR: RestClient: Refreshing the OAuth2 token failed.
+[2019-11-19] [13:08:35.863T+0900] NOTICE: ----------------------------------------------------------------
+[2019-11-19] [13:08:35.868T+0900] NOTICE: Pix4Dreact: 1.0.0 (89d1c4b64)
+[2019-11-19] [13:08:35.869T+0900] NOTICE: Qt (runtime): 5.12.2
+[2019-11-19] [13:08:35.870T+0900] NOTICE: Qt (build-time): 5.12.2
+[2019-11-19] [13:08:35.871T+0900] NOTICE: Resuming application-level logging (Store creation).
+[2019-11-19] [13:08:35.872T+0900] NOTICE: Logging to: C:/Users/mapco/Pix4Dreact/Log/applicationLog.log
+[2019-11-19] [13:08:35.876T+0900] NOTICE: Screen size: 1368x912, available 1368x872
+[2019-11-19] [13:08:35.877T+0900] NOTICE: Device pixel ratio: 2
+[2019-11-19] [13:08:35.961T+0900] WARNING: qt-msg: serialnmea: No serial ports found
+[2019-11-19] [13:08:35.962T+0900] WARNING: The device does not support GPS positioning. This feature will be disabled.
+[2019-11-19] [13:08:37.550T+0900] NOTICE: EulaPageState: Entered
+[2019-11-19] [13:08:37.553T+0900] NOTICE: LoginPageState: Entered
+[2019-11-19] [13:08:37.565T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [13:08:37.594T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [13:08:37.611T+0900] NOTICE: OnlineCheckState: Entered
+[2019-11-19] [13:08:37.764T+0900] ERROR: RestClient: Error executing network request for URL https://cloud.pix4d.com
+[2019-11-19] [13:08:37.768T+0900] ERROR:   HTTP code: 0
+[2019-11-19] [13:08:37.771T+0900] ERROR:   Error code: 3
+[2019-11-19] [13:08:37.772T+0900] ERROR:   Error string: Host cloud.pix4d.com not found
+[2019-11-19] [13:08:37.773T+0900] NOTICE: StartupPageState: Entered
+[2019-11-19] [13:08:37.775T+0900] NOTICE: Couchbase: store already closed or was not opened.
+[2019-11-19] [13:08:37.776T+0900] NOTICE: db path is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-11-19] [13:08:37.777T+0900] NOTICE: DataFileJournal: File journal is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-11-19] [13:08:37.789T+0900] NOTICE: ProjectJournal: JSON folder path is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-11-19] [13:08:37.841T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [13:08:37.873T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [13:08:37.883T+0900] NOTICE: RestClient: OAuth2 token will expire soon, refreshing...
+[2019-11-19] [13:08:39.570T+0900] ERROR: RestClient: Error executing network request for URL https://cloud.pix4d.com/oauth2/token/
+[2019-11-19] [13:08:39.572T+0900] ERROR:   HTTP code: 0
+[2019-11-19] [13:08:39.573T+0900] ERROR:   Error code: 3
+[2019-11-19] [13:08:39.574T+0900] ERROR:   Error string: Host cloud.pix4d.com not found
+[2019-11-19] [13:08:39.575T+0900] ERROR: RestClient: Refreshing the OAuth2 token failed.
+[2019-11-19] [13:09:43.651T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [13:09:43.689T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [13:09:46.828T+0900] NOTICE: ----------------------------------------------------------------
+[2019-11-19] [13:09:46.830T+0900] NOTICE: Pix4Dreact: 1.0.0 (89d1c4b64)
+[2019-11-19] [13:09:46.831T+0900] NOTICE: Qt (runtime): 5.12.2
+[2019-11-19] [13:09:46.831T+0900] NOTICE: Qt (build-time): 5.12.2
+[2019-11-19] [13:09:46.832T+0900] NOTICE: Resuming application-level logging (Store creation).
+[2019-11-19] [13:09:46.833T+0900] NOTICE: Logging to: C:/Users/mapco/Pix4Dreact/Log/applicationLog.log
+[2019-11-19] [13:09:46.834T+0900] NOTICE: Screen size: 1368x912, available 1368x872
+[2019-11-19] [13:09:46.835T+0900] NOTICE: Device pixel ratio: 2
+[2019-11-19] [13:09:46.841T+0900] WARNING: qt-msg: serialnmea: No serial ports found
+[2019-11-19] [13:09:46.842T+0900] WARNING: The device does not support GPS positioning. This feature will be disabled.
+[2019-11-19] [13:09:47.592T+0900] NOTICE: EulaPageState: Entered
+[2019-11-19] [13:09:47.595T+0900] NOTICE: LoginPageState: Entered
+[2019-11-19] [13:09:47.604T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [13:09:47.639T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [13:09:47.650T+0900] NOTICE: OnlineCheckState: Entered
+[2019-11-19] [13:09:47.737T+0900] ERROR: RestClient: Error executing network request for URL https://cloud.pix4d.com
+[2019-11-19] [13:09:47.738T+0900] ERROR:   HTTP code: 0
+[2019-11-19] [13:09:47.739T+0900] ERROR:   Error code: 3
+[2019-11-19] [13:09:47.740T+0900] ERROR:   Error string: Host cloud.pix4d.com not found
+[2019-11-19] [13:09:47.741T+0900] NOTICE: StartupPageState: Entered
+[2019-11-19] [13:09:47.742T+0900] NOTICE: Couchbase: store already closed or was not opened.
+[2019-11-19] [13:09:47.746T+0900] NOTICE: db path is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-11-19] [13:09:47.747T+0900] NOTICE: DataFileJournal: File journal is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-11-19] [13:09:47.749T+0900] NOTICE: ProjectJournal: JSON folder path is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-11-19] [13:09:47.753T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [13:09:47.788T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [13:09:47.795T+0900] NOTICE: RestClient: OAuth2 token will expire soon, refreshing...
+[2019-11-19] [13:09:48.203T+0900] ERROR: RestClient: Error executing network request for URL https://cloud.pix4d.com/oauth2/token/
+[2019-11-19] [13:09:48.204T+0900] ERROR:   HTTP code: 0
+[2019-11-19] [13:09:48.205T+0900] ERROR:   Error code: 3
+[2019-11-19] [13:09:48.206T+0900] ERROR:   Error string: Host cloud.pix4d.com not found
+[2019-11-19] [13:09:48.207T+0900] ERROR: RestClient: Refreshing the OAuth2 token failed.
+[2019-11-19] [13:10:12.547T+0900] NOTICE: RestClient: OAuth2 token will expire soon, refreshing...
+[2019-11-19] [13:10:12.589T+0900] ERROR: RestClient: Error executing network request for URL https://cloud.pix4d.com/oauth2/token/
+[2019-11-19] [13:10:12.591T+0900] ERROR:   HTTP code: 0
+[2019-11-19] [13:10:12.594T+0900] ERROR:   Error code: 3
+[2019-11-19] [13:10:12.597T+0900] ERROR:   Error string: Host cloud.pix4d.com not found
+[2019-11-19] [13:10:12.598T+0900] ERROR: RestClient: Refreshing the OAuth2 token failed.
+[2019-11-19] [13:10:13.114T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [13:10:13.171T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [13:10:13.186T+0900] NOTICE: RestClient: OAuth2 token will expire soon, refreshing...
+[2019-11-19] [13:10:13.211T+0900] ERROR: RestClient: Error executing network request for URL https://cloud.pix4d.com/oauth2/token/
+[2019-11-19] [13:10:13.214T+0900] ERROR:   HTTP code: 0
+[2019-11-19] [13:10:13.216T+0900] ERROR:   Error code: 3
+[2019-11-19] [13:10:13.217T+0900] ERROR:   Error string: Host cloud.pix4d.com not found
+[2019-11-19] [13:10:13.219T+0900] ERROR: RestClient: Refreshing the OAuth2 token failed.
+[2019-11-19] [13:10:14.673T+0900] NOTICE: RestClient: OAuth2 token will expire soon, refreshing...
+[2019-11-19] [13:10:14.683T+0900] ERROR: RestClient: Error executing network request for URL https://cloud.pix4d.com/oauth2/token/
+[2019-11-19] [13:10:14.687T+0900] ERROR:   HTTP code: 0
+[2019-11-19] [13:10:14.690T+0900] ERROR:   Error code: 3
+[2019-11-19] [13:10:14.693T+0900] ERROR:   Error string: Host cloud.pix4d.com not found
+[2019-11-19] [13:10:14.698T+0900] ERROR: RestClient: Refreshing the OAuth2 token failed.
+[2019-11-19] [13:10:16.816T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [13:10:16.850T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [13:10:16.857T+0900] NOTICE: RestClient: OAuth2 token will expire soon, refreshing...
+[2019-11-19] [13:10:16.861T+0900] ERROR: RestClient: Error executing network request for URL https://cloud.pix4d.com/oauth2/token/
+[2019-11-19] [13:10:16.863T+0900] ERROR:   HTTP code: 0
+[2019-11-19] [13:10:16.865T+0900] ERROR:   Error code: 3
+[2019-11-19] [13:10:16.866T+0900] ERROR:   Error string: Host cloud.pix4d.com not found
+[2019-11-19] [13:10:16.867T+0900] ERROR: RestClient: Refreshing the OAuth2 token failed.
+[2019-11-19] [14:52:09.577T+0900] NOTICE: ----------------------------------------------------------------
+[2019-11-19] [14:52:09.577T+0900] NOTICE: Pix4Dreact: 1.0.0 (89d1c4b64)
+[2019-11-19] [14:52:09.579T+0900] NOTICE: Qt (runtime): 5.12.2
+[2019-11-19] [14:52:09.580T+0900] NOTICE: Qt (build-time): 5.12.2
+[2019-11-19] [14:52:09.581T+0900] NOTICE: Resuming application-level logging (Project 'sagamihara20191119takata01anafi' was closed).
+[2019-11-19] [14:52:09.582T+0900] NOTICE: Logging to: C:/Users/mapco/Pix4Dreact/Log/applicationLog.log
+[2019-11-19] [14:52:09.584T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [14:52:09.662T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [14:52:09.669T+0900] ERROR: RestClient: Error executing network request for URL https://cloud.pix4d.com/oauth2/token/
+[2019-11-19] [14:52:09.670T+0900] ERROR:   HTTP code: 0
+[2019-11-19] [14:52:09.671T+0900] ERROR:   Error code: 5
+[2019-11-19] [14:52:09.672T+0900] ERROR:   Error string: Operation canceled
+[2019-11-19] [14:52:09.673T+0900] ERROR: RestClient: Refreshing the OAuth2 token failed.
+[2019-11-19] [19:35:49.924T+0900] NOTICE: ----------------------------------------------------------------
+[2019-11-19] [19:35:49.929T+0900] NOTICE: Pix4Dreact: 1.0.0 (89d1c4b64)
+[2019-11-19] [19:35:49.931T+0900] NOTICE: Qt (runtime): 5.12.2
+[2019-11-19] [19:35:49.934T+0900] NOTICE: Qt (build-time): 5.12.2
+[2019-11-19] [19:35:49.936T+0900] NOTICE: Resuming application-level logging (Store creation).
+[2019-11-19] [19:35:49.939T+0900] NOTICE: Logging to: C:/Users/mapco/Pix4Dreact/Log/applicationLog.log
+[2019-11-19] [19:35:49.946T+0900] NOTICE: Screen size: 1368x912, available 1368x872
+[2019-11-19] [19:35:49.950T+0900] NOTICE: Device pixel ratio: 2
+[2019-11-19] [19:35:50.126T+0900] WARNING: qt-msg: serialnmea: No serial ports found
+[2019-11-19] [19:35:50.129T+0900] WARNING: The device does not support GPS positioning. This feature will be disabled.
+[2019-11-19] [19:35:53.800T+0900] NOTICE: EulaPageState: Entered
+[2019-11-19] [19:35:53.804T+0900] NOTICE: LoginPageState: Entered
+[2019-11-19] [19:35:53.820T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [19:35:53.989T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [19:35:54.002T+0900] NOTICE: OnlineCheckState: Entered
+[2019-11-19] [19:35:55.416T+0900] NOTICE: AcquireLicenseState: Entered
+[2019-11-19] [19:35:55.419T+0900] NOTICE: RestClient: OAuth2 token will expire soon, refreshing...
+[2019-11-19] [19:35:55.936T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [19:35:56.005T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [19:35:56.490T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [19:35:56.580T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [19:35:56.592T+0900] NOTICE: CheckNewVersionState: Entered
+[2019-11-19] [19:35:56.595T+0900] NOTICE: StartupPageState: Entered
+[2019-11-19] [19:35:56.598T+0900] NOTICE: Couchbase: store already closed or was not opened.
+[2019-11-19] [19:35:56.601T+0900] NOTICE: db path is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-11-19] [19:35:56.602T+0900] NOTICE: DataFileJournal: File journal is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-11-19] [19:35:56.618T+0900] NOTICE: ProjectJournal: JSON folder path is now set to: C:/Users/mapco/AppData/Local/Pix4d/Pix4Dreact/DBS/1f103c13-f988-5e8b-8855-8f15995ad71a/DB/
+[2019-11-19] [19:35:56.667T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [19:35:56.730T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [19:37:33.672T+0900] NOTICE: ----------------------------------------------------------------
+[2019-11-19] [19:37:33.676T+0900] NOTICE: Pix4Dreact: 1.0.0 (89d1c4b64)
+[2019-11-19] [19:37:33.681T+0900] NOTICE: Qt (runtime): 5.12.2
+[2019-11-19] [19:37:33.685T+0900] NOTICE: Qt (build-time): 5.12.2
+[2019-11-19] [19:37:33.689T+0900] NOTICE: Resuming application-level logging (Project 'Sagamihara20191119takatabashi02discoproag' was closed).
+[2019-11-19] [19:37:33.693T+0900] NOTICE: Logging to: C:/Users/mapco/Pix4Dreact/Log/applicationLog.log
+[2019-11-19] [19:37:33.867T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [19:37:34.000T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [19:39:53.583T+0900] NOTICE: ----------------------------------------------------------------
+[2019-11-19] [19:39:53.588T+0900] NOTICE: Pix4Dreact: 1.0.0 (89d1c4b64)
+[2019-11-19] [19:39:53.592T+0900] NOTICE: Qt (runtime): 5.12.2
+[2019-11-19] [19:39:53.597T+0900] NOTICE: Qt (build-time): 5.12.2
+[2019-11-19] [19:39:53.601T+0900] NOTICE: Resuming application-level logging (Project 'Sagamihara20191119takatabashi02discoproag' was closed).
+[2019-11-19] [19:39:53.606T+0900] NOTICE: Logging to: C:/Users/mapco/Pix4Dreact/Log/applicationLog.log
+[2019-11-19] [19:39:53.783T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [19:39:53.819T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [19:40:15.540T+0900] NOTICE: Gathering log files into D:/DCIM/Sagamihara20191119takatabashi02discoproag

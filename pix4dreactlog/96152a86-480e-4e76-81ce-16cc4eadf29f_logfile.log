@@ -1,0 +1,142 @@
+[2019-11-19] [19:37:52.006T+0900] NOTICE: ----------------------------------------------------------------
+[2019-11-19] [19:37:52.008T+0900] NOTICE: Pix4Dreact: 1.0.0 (89d1c4b64)
+[2019-11-19] [19:37:52.012T+0900] NOTICE: Qt (runtime): 5.12.2
+[2019-11-19] [19:37:52.016T+0900] NOTICE: Qt (build-time): 5.12.2
+[2019-11-19] [19:37:52.020T+0900] NOTICE: Project: Unnamed Map 2 (96152a86-480e-4e76-81ce-16cc4eadf29f) 
+[2019-11-19] [19:37:52.024T+0900] NOTICE: Logging to: C:/Users/mapco/Pix4Dreact/Log/96152a86-480e-4e76-81ce-16cc4eadf29f_logfile.log
+[2019-11-19] [19:37:52.303T+0900] NOTICE: Project state changed from: INVALID to DEFAULT
+[2019-11-19] [19:37:52.306T+0900] NOTICE: Save project to db request: Saving PROJECT JSON document. create = 1 update = 0 item = Unnamed Map 2 (96152a86-480e-4e76-81ce-16cc4eadf29f)
+[2019-11-19] [19:37:52.307T+0900] NOTICE: Save project to db request: Finish save for PROJECT Unnamed Map 2 (96152a86-480e-4e76-81ce-16cc4eadf29f)
+[2019-11-19] [19:37:52.321T+0900] NOTICE: Project state changed from: DEFAULT to IMPORT
+[2019-11-19] [19:38:29.844T+0900] NOTICE: Save project to db request: Saving PROJECT JSON document. create = 0 update = 1 item = Sagamihara20191119takatabashi02discoproag (96152a86-480e-4e76-81ce-16cc4eadf29f)
+[2019-11-19] [19:38:29.848T+0900] NOTICE: Save project to db request: Finish save for PROJECT Sagamihara20191119takatabashi02discoproag (96152a86-480e-4e76-81ce-16cc4eadf29f)
+[2019-11-19] [19:39:04.617T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [19:39:04.717T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [19:39:04.729T+0900] NOTICE: GraphBuilder constructed with MaxMemory 1 MB and 8 threads
+[2019-11-19] [19:39:04.732T+0900] NOTICE: Project state changed from: IMPORT to IMPORT_SUMMARY
+[2019-11-19] [19:39:04.733T+0900] NOTICE: Adding image paths for 21 files
+[2019-11-19] [19:39:07.927T+0900] NOTICE: Save project to db request: Saving IMAGE JSON document. create = 1 update = 0 item = Orthomosaic (1bddcac3-cfed-4d6f-9b00-8a47e375fb4c)
+[2019-11-19] [19:39:07.932T+0900] NOTICE: Save project to db request: Finish save for IMAGE Orthomosaic (1bddcac3-cfed-4d6f-9b00-8a47e375fb4c)
+[2019-11-19] [19:39:07.938T+0900] NOTICE: Save project to db request: Saving PROJECT JSON document. create = 0 update = 1 item = Sagamihara20191119takatabashi02discoproag (96152a86-480e-4e76-81ce-16cc4eadf29f)
+[2019-11-19] [19:39:07.944T+0900] NOTICE: Save project to db request: Finish save for PROJECT Sagamihara20191119takatabashi02discoproag (96152a86-480e-4e76-81ce-16cc4eadf29f)
+[2019-11-19] [19:39:07.953T+0900] NOTICE: Project state changed from: IMPORT_SUMMARY to DEFAULT
+[2019-11-19] [19:39:07.966T+0900] NOTICE: Pipeline settings set: 
+  Radiometric Correction: false
+  Weather Condition: sunny
+  Rig Alignment: false
+  Min GSD: 0
+  Max Size Mpx: 0
+[2019-11-19] [19:39:07.971T+0900] NOTICE: --- Executing state: START
+[2019-11-19] [19:39:07.975T+0900] NOTICE: --- Executing state: SETUP
+[2019-11-19] [19:39:07.980T+0900] NOTICE: Dataset report:
+ Number of processed files: 21
+ Number of capture events: 21
+ Capture events without GPS info: 0
+ Cameras found: 1
+   Supported camera [Sequoia_4.9_4608x3456] used in 21 captures
+     model: Sequoia
+     focal length: 4.9
+     image size: 4608x3456
+ Band configurations: 1
+   Main band configuration [Red, Green, Blue] with 21 captures
+Radiometric correction: unsupported
+ -------------------
+
+[2019-11-19] [19:39:07.984T+0900] NOTICE: --- Executing state: BUILD_GRAPH
+[2019-11-19] [19:39:08.003T+0900] NOTICE: Projected Coordinate System:
+PROJCS["WGS 84 / Local Coordinate System TM",
+    GEOGCS["WGS 84",
+        DATUM["WGS_1984",
+            SPHEROID["WGS 84",6378137,298.257223563,
+                AUTHORITY["EPSG","7030"]],
+            AUTHORITY["EPSG","6326"]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]],
+        AUTHORITY["EPSG","4326"]],
+    PROJECTION["Transverse_Mercator"],
+    PARAMETER["latitude_of_origin",0],
+    PARAMETER["central_meridian",141],
+    PARAMETER["scale_factor",0.9996],
+    PARAMETER["false_easting",500000],
+    PARAMETER["false_northing",0],
+    UNIT["Meter",1],
+    AUTHORITY["EPSG","32654"]]
++proj=utm +zone=54 +datum=WGS84 +units=m +no_defs 
+[2019-11-19] [19:39:15.522T+0900] NOTICE: Image(s) loaded with id 0 : D:/DCIM/0000/IMG_191119_060453_0000_RGB.JPG
+[2019-11-19] [19:39:15.536T+0900] NOTICE: Image(s) loaded with id 1 : D:/DCIM/0000/IMG_191119_060454_0001_RGB.JPG
+[2019-11-19] [19:39:15.550T+0900] NOTICE: Image(s) loaded with id 2 : D:/DCIM/0000/IMG_191119_060455_0002_RGB.JPG
+[2019-11-19] [19:39:15.565T+0900] NOTICE: Image(s) loaded with id 3 : D:/DCIM/0000/IMG_191119_060456_0003_RGB.JPG
+[2019-11-19] [19:39:15.582T+0900] NOTICE: Image(s) loaded with id 4 : D:/DCIM/0000/IMG_191119_060457_0004_RGB.JPG
+[2019-11-19] [19:39:15.598T+0900] NOTICE: Image(s) loaded with id 5 : D:/DCIM/0000/IMG_191119_060524_0005_RGB.JPG
+[2019-11-19] [19:39:15.617T+0900] NOTICE: Image(s) loaded with id 6 : D:/DCIM/0000/IMG_191119_060526_0006_RGB.JPG
+[2019-11-19] [19:39:15.630T+0900] NOTICE: Image(s) loaded with id 7 : D:/DCIM/0000/IMG_191119_060527_0007_RGB.JPG
+[2019-11-19] [19:39:17.139T+0900] NOTICE: --- Executing state: UPDATE_PROJECTION
+[2019-11-19] [19:39:17.149T+0900] ERROR: Ground plane could not be estimated. Number of images positions: 280
+[2019-11-19] [19:39:17.154T+0900] NOTICE: Camera id 0 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:17.156T+0900] NOTICE: Camera id 1 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:17.158T+0900] NOTICE: Camera id 2 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:17.159T+0900] NOTICE: Camera id 3 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:17.160T+0900] NOTICE: Camera id 4 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:17.161T+0900] NOTICE: Camera id 5 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:17.162T+0900] NOTICE: Camera id 6 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:17.164T+0900] NOTICE: Camera id 7 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:17.190T+0900] NOTICE: Ground plane: normal [-nan(ind) -nan(ind)    261925] and distance -nan(ind)
+[2019-11-19] [19:39:17.191T+0900] NOTICE: --- Executing state: BUILD_GRAPH
+[2019-11-19] [19:39:19.349T+0900] NOTICE: Image(s) loaded with id 8 : D:/DCIM/0000/IMG_191119_060528_0008_RGB.JPG
+[2019-11-19] [19:39:19.364T+0900] NOTICE: Image(s) loaded with id 9 : D:/DCIM/0000/IMG_191119_060529_0009_RGB.JPG
+[2019-11-19] [19:39:19.376T+0900] NOTICE: Image(s) loaded with id 10 : D:/DCIM/0000/IMG_191119_060556_0010_RGB.JPG
+[2019-11-19] [19:39:19.385T+0900] NOTICE: Image(s) loaded with id 11 : D:/DCIM/0000/IMG_191119_060557_0011_RGB.JPG
+[2019-11-19] [19:39:19.395T+0900] NOTICE: Image(s) loaded with id 12 : D:/DCIM/0000/IMG_191119_060558_0012_RGB.JPG
+[2019-11-19] [19:39:19.408T+0900] NOTICE: Image(s) loaded with id 13 : D:/DCIM/0000/IMG_191119_060559_0013_RGB.JPG
+[2019-11-19] [19:39:19.418T+0900] NOTICE: Image(s) loaded with id 14 : D:/DCIM/0000/IMG_191119_060601_0014_RGB.JPG
+[2019-11-19] [19:39:19.430T+0900] NOTICE: Image(s) loaded with id 15 : D:/DCIM/0000/IMG_191119_060627_0015_RGB.JPG
+[2019-11-19] [19:39:22.356T+0900] NOTICE: --- Executing state: UPDATE_PROJECTION
+[2019-11-19] [19:39:22.428T+0900] ERROR: Ground plane could not be estimated. Number of images positions: 816
+[2019-11-19] [19:39:22.444T+0900] NOTICE: Camera id 0 has large angle with nadir: 88.8931 degrees
+[2019-11-19] [19:39:22.449T+0900] NOTICE: Camera id 1 has large angle with nadir: 97.4436 degrees
+[2019-11-19] [19:39:22.457T+0900] NOTICE: Camera id 2 has large angle with nadir: 99.9624 degrees
+[2019-11-19] [19:39:22.462T+0900] NOTICE: Camera id 3 has large angle with nadir: 96.3247 degrees
+[2019-11-19] [19:39:22.466T+0900] NOTICE: Camera id 4 has large angle with nadir: 99.1897 degrees
+[2019-11-19] [19:39:22.471T+0900] NOTICE: Camera id 5 has large angle with nadir: 87.3937 degrees
+[2019-11-19] [19:39:22.477T+0900] NOTICE: Camera id 6 has large angle with nadir: 91.9334 degrees
+[2019-11-19] [19:39:22.483T+0900] NOTICE: Camera id 7 has large angle with nadir: 93.5931 degrees
+[2019-11-19] [19:39:22.490T+0900] NOTICE: Camera id 8 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:22.496T+0900] NOTICE: Camera id 9 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:22.499T+0900] NOTICE: Camera id 10 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:22.503T+0900] NOTICE: Camera id 11 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:22.509T+0900] NOTICE: Camera id 12 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:22.514T+0900] NOTICE: Camera id 13 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:22.518T+0900] NOTICE: Camera id 14 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:22.524T+0900] NOTICE: Camera id 15 has large angle with nadir: 90 degrees
+[2019-11-19] [19:39:22.881T+0900] NOTICE: Ground plane: normal [-nan(ind) -nan(ind)    335922] and distance -nan(ind)
+[2019-11-19] [19:39:22.886T+0900] NOTICE: --- Executing state: BUILD_GRAPH
+[2019-11-19] [19:39:24.956T+0900] NOTICE: Image(s) loaded with id 16 : D:/DCIM/0000/IMG_191119_060628_0016_RGB.JPG
+[2019-11-19] [19:39:24.978T+0900] NOTICE: Image(s) loaded with id 17 : D:/DCIM/0000/IMG_191119_060629_0017_RGB.JPG
+[2019-11-19] [19:39:25.013T+0900] NOTICE: Image(s) loaded with id 18 : D:/DCIM/0000/IMG_191119_060630_0018_RGB.JPG
+[2019-11-19] [19:39:25.033T+0900] NOTICE: Image(s) loaded with id 19 : D:/DCIM/0000/IMG_191119_060631_0019_RGB.JPG
+[2019-11-19] [19:39:25.056T+0900] NOTICE: Image(s) loaded with id 20 : D:/DCIM/0000/IMG_191119_060632_0020_RGB.JPG
+[2019-11-19] [19:39:26.683T+0900] NOTICE: --- Executing state: UPDATE_PROJECTION
+[2019-11-19] [19:39:26.730T+0900] NOTICE: --- Executing state: BUILD_GRAPH
+[2019-11-19] [19:39:26.732T+0900] NOTICE: --- Executing state: WAIT_FOR_IMAGES
+[2019-11-19] [19:39:26.733T+0900] NOTICE: --- Executing state: BUNDLE_ADJUSTMENT
+[2019-11-19] [19:39:26.763T+0900] ERROR: Bundle adjustment on plane failed
+[2019-11-19] [19:39:26.766T+0900] NOTICE: Pipeline timing summary
+
+START                         0.000003 s
+SETUP                         0.005282 s
+BUILD_GRAPH                   18.092753 s
+UPDATE_PROJECTION             0.618393 s
+WAIT_FOR_IMAGES               0.000012 s
+BUNDLE_ADJUSTMENT             0.031512 s
+Total time                    0 min 18.747954 s
+
+[2019-11-19] [19:39:26.766T+0900] NOTICE: Stitching files finished with status: 1
+[2019-11-19] [19:39:26.772T+0900] NOTICE: Acquiring graphics card information start ...
+[2019-11-19] [19:39:26.830T+0900] NOTICE: Acquired graphics card information: Intel Intel(R) UHD Graphics 620 4.5.0 - Build 24.20.100.6294
+[2019-11-19] [19:39:26.854T+0900] NOTICE: Project stitching completed with photo streaming: 0 and stitched layer: 0
+[2019-11-19] [19:39:26.858T+0900] ERROR: Notification: Failed to stitch images: An error occurred while stitching the images. The map will now be discarded. Do you want to save the log files (needed for further analysis by support)?
+[2019-11-19] [19:39:26.871T+0900] NOTICE: Project stitching finish while stitching: 1, photo streaming: 0
+[2019-11-19] [19:39:26.876T+0900] NOTICE: Save project to db request: Saving PROJECT JSON document. create = 0 update = 1 item = Sagamihara20191119takatabashi02discoproag (96152a86-480e-4e76-81ce-16cc4eadf29f)
+[2019-11-19] [19:39:26.880T+0900] NOTICE: Save project to db request: Finish save for PROJECT Sagamihara20191119takatabashi02discoproag (96152a86-480e-4e76-81ce-16cc4eadf29f)
